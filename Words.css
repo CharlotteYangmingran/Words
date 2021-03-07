@@ -1,0 +1,102 @@
+html{
+  background-color:black ;
+  z-index: 0;
+/*  border:2px solid red;*/
+}
+
+body {font-family: Source sans-serif, sans-serif;}
+
+.h1{
+	top:300px;
+	left: 400px;
+}
+
+.white-box1 {
+	width:160px;
+	height:70px;
+	background-color: white;
+	z-index:9;
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.white-box2 {
+	width:160px;
+	height:70px;
+	background-color: white;
+	z-index:9;
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.white-box3 {
+	width:40px;
+	height:70px;
+	background-color: white;
+	z-index:9;
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.white-box4 {
+	width:90px;
+	height:70px;
+	background-color: white;
+	z-index:9;
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.white-box5 {
+	width:160px;
+	height:70px;
+	background-color: white;
+	z-index:9;
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.white-box6 {
+	width:160px;
+	height:70px;
+	background-color: white;
+	z-index:9;
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.white-box7 {
+	width:70px;
+	height:70px;
+	background-color: white;
+	z-index:9;
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.white-box8 {
+	width:70px;
+	height:70px;
+	background-color: white;
+	z-index:9;
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.white-box9 {
+	width:40px;
+	height:70px;
+	background-color: white;
+	z-index:9;
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.white-box10 {
+	width:30px;
+	height:70px;
+	background-color: white;
+	z-index:9;
+	font-size: 50px;
+	font-weight: bold;
+}
